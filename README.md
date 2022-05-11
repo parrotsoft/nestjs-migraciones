@@ -28,8 +28,7 @@
 
 ## Installation
 
-Node 14
-Nestjs 8.2.5
+Node 14 - Nestjs 8.2.5
 
 ```bash
 $ npm install
